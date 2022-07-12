@@ -14,7 +14,7 @@ const data = [
     id: 2,
     title: "Sydney Opera House",
     location: "Australia",
-    googleMapsUrl: "",
+    googleMapsUrl: "https://goo.gl/maps/e2yJnavFrK8iFaaL9",
     startDate: "27 May, 2021",
     endDate: "8 Jun, 2021",
     description:
@@ -25,7 +25,7 @@ const data = [
     id: 3,
     title: "Geirangerfjord",
     location: "Norway",
-    googleMapsUrl: "",
+    googleMapsUrl: "https://goo.gl/maps/Bk1PdpDScNm52vFQA",
     startDate: "01 Oct, 2021",
     endDate: "18 Nov, 2021",
     description:
