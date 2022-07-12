@@ -11,9 +11,7 @@ export default function Card(props) {
         <div className="card__date">
           <img src={locationIcon} alt="" />
           <small className="location">{props.item.location}</small>
-          <a href="https://goo.gl/maps/1DGM5WrWnATgkSNB8">
-            View on Google Maps
-          </a>
+          <a href={props.item.googleMapsUrl}>View on Google Maps</a>
         </div>
 
         <h3 className="card__date">
