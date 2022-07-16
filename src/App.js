@@ -9,7 +9,7 @@ function App() {
   });
 
   return (
-    <div>
+    <div className="app">
       <Navbar />
       <div className="container card-list">{travelCard}</div>
     </div>
